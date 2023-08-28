@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - prints the sign of a number
- * @n: This is the number to be evaluated
- * Return : Returns 1 and prints
+ * print_sign - a fxn that prints sign of a number
+ * @n: number input
+ * Return: 1 prints '+' if n>0,0 prints '0', -1 prints '-' if n<0
  */
 
 int print_sign(int n)
