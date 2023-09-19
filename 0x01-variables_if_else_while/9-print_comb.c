@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all the possible combinationsof single
+ * main - Entry point of the program
  *
- * Return : Always 0(Success)
+ * Description: This is the main function, which serves as the entry point
+ * for the program. It returns an integer value to indicate the success or
+ * failure of the program's execution.
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
