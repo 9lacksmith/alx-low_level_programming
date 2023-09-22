@@ -6,7 +6,7 @@
  * This function prints the multiplication table for numbers 0 to 9 in the
  * following format:
  * "n x m = result", where 'n' and 'm' are the multiplicands, and 'result' is
- * the product.
+ * the product
  */
 
 void times_table(void)
