@@ -4,6 +4,7 @@
 /**
  * struct dog - structure definition of a dog
  * @name: character string
+ * @age: the age of the dog`
  * @owner: charcter string
  */
 
